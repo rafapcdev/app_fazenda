@@ -1,5 +1,5 @@
 id,nome,tipo,peso,obs,cio,prenha,inseminado
-f757dcff4aba4d94813dc7d3c0ef2c14,vaca213,Bovino,123.0,asd,True,True,True
+f757dcff4aba4d94813dc7d3c0ef2c14,vaca,Bovino,123.0,asd,True,True,True
 1885698ced9d43f5a43db647688a7309,rafael,qwe,113.0,,True,False,True
 9fcc27c7cfef45228af756a8fbc425aa,vaca,Bovino,128.0,,False,False,True
 2269ed269ba44eceafb8b751b8a09bc2,vaca,Bovino,121.0,,True,True,True
