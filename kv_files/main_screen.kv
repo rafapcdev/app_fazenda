@@ -1,0 +1,42 @@
+<MainScreen>:
+    MDBoxLayout:
+        orientation: "vertical"
+
+        MDTopAppBar:
+            title: "Animais"
+            left_action_items: [["menu", lambda _: root.open_nav_drawer()]]
+
+        MDScrollView:
+            MDBoxLayout:
+                id: animals_card_list
+                orientation: "vertical"
+                size_hint_y: None
+                height: self.minimum_height
+                padding: dp(10)
+                spacing: dp(10)
+        
+
+    MDFloatingActionButton:
+        icon: "plus"
+        pos_hint: {"center_x": .9, "center_y": 0.1}
+        on_release: app.change_screen("Newcard")          
+
+
+    MDNavigationDrawer:
+        id: nav_drawer
+        size_hint: None, 1
+        width: "240dp"
+        
+        MDBoxLayout:
+            orientation: "vertical"
+            padding: dp(8)
+            spacing: dp(8)
+            adaptive_height: True  # Ajusta automaticamente a altura
+            pos_hint: {"top": 1}  # Ancora no topo
+
+            MDList:
+                id: left_navbar
+                size_hint_y: None
+                height: self.minimum_height
+                padding: dp(8)
+                spacing: dp(8)

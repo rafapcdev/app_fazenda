@@ -1,0 +1,91 @@
+<NewCardScreen>:    
+    MDBoxLayout:
+        orientation: "vertical"
+
+        MDTopAppBar:
+            title: "Novo Animal"
+            left_action_items: [["arrow-left", lambda _: app.change_screen("Main")]]  # Navega de volta para Main
+
+        MDScrollView:
+            MDBoxLayout:
+                orientation: "vertical"
+                padding: dp(8)
+                spacing: dp(8)
+                size_hint_y: None
+                height: self.minimum_height  # Ajusta a altura do layout
+
+                MDTextField:
+                    id: animal_name
+                    hint_text: "Animal"
+                    size_hint_y: None
+                    height: dp(50)  # Define uma altura fixa
+
+                MDTextField:
+                    id: animal_type
+                    hint_text: "Raça"
+                    size_hint_y: None
+                    height: dp(50)  # Define uma altura fixa
+
+                MDTextField:
+                    id: animal_weight
+                    hint_text: "Peso em kg"
+                    size_hint_y: None
+                    height: dp(50)  # Define uma altura fixa
+                    input_filter: "float"  # Permite apenas números e ponto decimal
+
+                MDTextField:
+                    id: animal_obs
+                    hint_text: "Observação"
+                    size_hint_y: None
+                    height: dp(100)  # Define uma altura maior para observações
+                    multiline: True  # Permite múltiplas linhas
+
+                MDBoxLayout:
+                    orientation: "horizontal"
+                    size_hint_y: None
+                    height: dp(50)
+                    padding: dp(10)  # Adiciona um pouco de padding ao redor do layout
+                    spacing: dp(10)
+
+                    MDCheckbox:
+                        id: checkbox_on_heat
+                        width: dp(10)
+                        size_hint_x: None  # Define o tamanho do checkbox
+                        size: dp(30), dp(30)
+                    
+                    MDLabel:
+                        text: "Cio"
+                        halign: "left"  # Centraliza o texto
+                        valign: "middle"  # Alinha verticalmente o texto
+                        size_hint_y: None  # Permite que o label ajuste sua altura
+                        height: self.texture_size[1]
+
+                    MDCheckbox:
+                        id: checkbox_is_pregnant
+                        width: dp(10)
+                        size_hint_x: None  # Define o tamanho do checkbox
+                        size: dp(30), dp(30)
+                    
+                    MDLabel:
+                        text: "Prenha"
+                        halign: "left"  # Centraliza o texto
+                        valign: "middle"  # Alinha verticalmente o texto
+                        size_hint_y: None  # Permite que o label ajuste sua altura
+                        height: self.texture_size[1]
+
+                    MDCheckbox:
+                        id: checkbox_inseminated
+                        width: dp(10)
+                        size_hint_x: None  # Define o tamanho do checkbox
+                        size: dp(30), dp(30)
+                    
+                    MDLabel:
+                        text: "Inseminada"
+                        halign: "left"  # Centraliza o texto
+                        valign: "middle"  # Alinha verticalmente o texto
+                        size_hint_y: None  # Permite que o label ajuste sua altura
+                        height: self.texture_size[1]
+
+                MDRaisedButton:
+                    text: "Adicionar"
+                    on_release: root.add_card()
