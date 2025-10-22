@@ -48,15 +48,19 @@ O aplicativo foi desenhado para atender às necessidades essenciais do pecuarist
 
 ## 📱 Telas do Aplicativo
 
-**Substitua as URLs abaixo pelos links das capturas de tela do seu aplicativo.** Você pode hospedar as imagens no próprio GitHub (arrastando e soltando em um "Issue") ou em um serviço como o Imgur.
-
-| Tela de Login | Dashboard Principal |
-| :---: | :---: |
-| https://github.com/matheus-costa-dev/app-fazenda/issues/1#issue-3540980071 |
-
-| Lista de Animais | Detalhes do Animal (Inseminações) |
-| :---: | :---: |
-| <img src="URL_DA_SUA_IMAGEM_LISTA_ANIMAIS.png" width="250" alt="Lista de Animais"> | <img src="URL_DA_SUA_IMAGEM_DETALHES_ANIMAL.png" width="250" alt="Detalhes e histórico do Animal"> |
+<img width="200" height="1080" alt="tela de login " src="https://github.com/user-attachments/assets/1942c0f5-f03f-41a2-81dc-cbe545a3a414" /> 
+<img width="200" height="1080" alt="Cadastro" src="https://github.com/user-attachments/assets/8134d8fc-e3fd-4820-89f9-da7492eece80" /> 
+<img width="200" height="1080" alt="Captura de Tela (34)" src="https://github.com/user-attachments/assets/3ee5fb15-23c2-4643-a8ac-6e5d1755ca77" />  
+<img width="200" height="1080" alt="Captura de Tela (37)" src="https://github.com/user-attachments/assets/f508042b-60f8-47fb-8ebd-380780d9bffa" />
+<img width="200" height="1080" alt="Captura de Tela (38)" src="https://github.com/user-attachments/assets/9def1185-62b2-4bd7-bd14-dcf00a6cde30" />
+<img width="200" height="985" alt="Captura de Tela (40)" src="https://github.com/user-attachments/assets/40431d43-2a3c-4b7e-a23b-f4c95fd2e0e9" />
+<img width="200" height="981" alt="Captura de Tela (41)" src="https://github.com/user-attachments/assets/ed5ec834-367f-450c-a2d9-9ed06cb098af" />
+<img width="200" height="986" alt="Captura de Tela (42)" src="https://github.com/user-attachments/assets/3e923b85-f044-43b1-b27d-4d96889516c1" />
+<img width="200" height="988" alt="Captura de Tela (43)" src="https://github.com/user-attachments/assets/ce0a126f-e3f1-41b7-9488-6bff6bd0d9bc" />
+<img width="200" height="998" alt="Captura de Tela (44)" src="https://github.com/user-attachments/assets/6ad6c707-c737-4124-894d-4ecea9b5d92e" />
+<img width="200" height="990" alt="Captura de Tela (46)" src="https://github.com/user-attachments/assets/551b29c2-f45d-4e2c-b0e4-d7cc7c06c74f" />
+<img width="200" height="995" alt="Captura de Tela (47)" src="https://github.com/user-attachments/assets/d8c30c1e-de79-4f9f-9d3d-9d9a3cb01332" />
+<img width="200" height="1003" alt="Captura de Tela (48)" src="https://github.com/user-attachments/assets/9b10d10f-bd23-4cea-9572-089a4ad1abd4" />
 
 ---
 
