@@ -105,6 +105,7 @@ npx expo start
 Projeto desenvolvido em colaboração por:
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/matheus-costa-dev" width=115><br><sub>Matheus Pereira Costa</sub>](https://github.com/matheus-costa-dev) | [<img loading="lazy" src="https://avatars.githubusercontent.com/rafapcdev" width=115><br><sub>Rafael Costa</sub>](https://github.com/rafapcdev) |
+| :---: | :---: |
 
 
 📄 Licença
