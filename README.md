@@ -104,7 +104,7 @@ npx expo start
 
 Projeto desenvolvido em colaboração por:
 
-<a href="https://www.github.com/rafapcdev"> <img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/SEU_ID_DO_GITHUB%3Fv%3D4" width="100px" alt="Foto de Perfil rafapcdev"/> <br /> <sub> <b>rafapcdev</b> </sub> </a> <br /> Entre em contato!
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/matheus-costa-dev" width=115><br><sub>Matheus Pereira Costa</sub>](https://github.com/matheus-costa-dev) | [<img loading="lazy" src="https://avatars.githubusercontent.com/rafapcdev" width=115><br><sub>Rafael Costa</sub>](https://github.com/rafapcdev) |
 
 
 📄 Licença
