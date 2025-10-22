@@ -52,7 +52,7 @@ O aplicativo foi desenhado para atender às necessidades essenciais do pecuarist
 
 | Tela de Login | Dashboard Principal |
 | :---: | :---: |
-| <img src="URL_DA_SUA_IMAGEM_LOGIN.png" width="250" alt="Tela de Login"> | <img src="URL_DA_SUA_IMAGEM_DASHBOARD.png" width="250" alt="Dashboard Principal"> |
+| https://github.com/rafapcdev/Portifolio/issues/1 |
 
 | Lista de Animais | Detalhes do Animal (Inseminações) |
 | :---: | :---: |
