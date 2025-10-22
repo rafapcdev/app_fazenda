@@ -96,6 +96,10 @@ npx expo start
 
 # 6. Leia o QR Code com o aplicativo Expo Go no seu celular.
 
+```
+
+---
+
 ## 👨‍💻 Desenvolvedores
 
 Projeto desenvolvido em colaboração por:
